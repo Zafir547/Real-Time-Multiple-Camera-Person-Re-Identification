@@ -55,9 +55,11 @@ video_paths = ["data/6387-191695740_small.mp4", "data/people.mp4"]
 ```
 ✅ You can replace these with your own multi-camera feeds or IP camera streams.
 
-## 📽️ Output Demo
-🔗 Watch the Output Video Here
-(Replace with your actual link or embed it)
+## ## 📽️ Output Demo
+
+### 🔗 [Watch the Output Video Here on YouTube](https://www.youtube.com/watch?v=fsNp70_NAgg)
+
+[![Watch the Output Video](https://img.youtube.com/vi/fsNp70_NAgg/hqdefault.jpg)](https://www.youtube.com/watch?v=fsNp70_NAgg)
 
 <img src="[https://example.com/demo-screenshot.png](https://github.com/Zafir547/Real-Time-Multiple-Camera-Person-Re-Identification/blob/main/out_cam1.mp4)" width="100%" />
 
