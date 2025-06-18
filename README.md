@@ -19,8 +19,8 @@ A real-time system to **track individuals across multiple CCTV camera feeds** wi
 **Step 1: Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/real-time-multicam-reid.git
-cd real-time-multicam-reid
+git clone https://github.com/Zafir547/Real-Time-Multiple-Camera-Person-Re-Identification.git
+cd Real-Time-Multiple-Camera-Person-Re-Identification
 ```
 
 ## 📦 Install Required Libraries
