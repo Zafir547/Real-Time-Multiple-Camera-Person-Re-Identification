@@ -59,16 +59,7 @@ video_paths = ["data/6387-191695740_small.mp4", "data/people.mp4"]
 🔗 Watch the Output Video Here
 (Replace with your actual link or embed it)
 
-<img src="https://example.com/demo-screenshot.png" width="100%" />
+<img src="[https://example.com/demo-screenshot.png](https://github.com/Zafir547/Real-Time-Multiple-Camera-Person-Re-Identification/blob/main/out_cam1.mp4)" width="100%" />
 
 ## 🙏 Special Thanks
 Huge appreciation to ITSOLERA Pvt Ltd and the entire development & AI team for their valuable support and guidance in making this project a success.
-
-## 📌 License
-This project is for academic and demo purposes. Contact for commercial use.
-
-## 💡 Want to contribute?
-Pull requests are welcome! Please open an issue first to discuss changes.
-```yaml
-Let me know if you'd like to **embed the YouTube/Google Drive video**, or if you want a version in **Urdu + English mixed style** for easier understanding for students.
-```
